@@ -1,4 +1,4 @@
-# <p align="center"> Oi, sou o Gabriel </p>
+# <p align="center"> Oi 👋 Sou o Gabriel </p>
 
 ### Linguagens
 
